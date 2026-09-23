@@ -75,7 +75,7 @@ export default function Gate({
         <p className="mb-2 font-body text-[11px] tracking-widest2 text-gold-soft">
           TOGETHER WITH THEIR FAMILIES
         </p>
-        <h1 className="font-display text-5xl text-ivory sm:text-6xl md:text-7xl">
+        <h1 className="font-display text-4xl text-ivory sm:text-5xl md:text-7xl">
           {weddingData.couple.groomFirstName}
           <span className="mx-3 text-gold">&amp;</span>
           {weddingData.couple.brideFirstName}
