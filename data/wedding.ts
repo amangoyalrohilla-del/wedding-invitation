@@ -113,7 +113,7 @@ export const weddingData = {
   venue: {
     name: "Agarwal Dharamshala",
     address: "Nandpuri, Jaipur, Rajasthan",
-    mapUrl: "#",
+    mapUrl: "https://maps.app.goo.gl/bSswH9jYhTCGT8Ng8",
     image: "/images/venue.jpg",
   },
 
