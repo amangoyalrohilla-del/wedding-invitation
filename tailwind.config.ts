@@ -11,8 +11,8 @@ const config: Config = {
       colors: {
         ivory: "#FBF3F1",
         cream: "#EFDCDA",
-        gold: "#C98A4B",
-        "gold-soft": "#D9A468",
+        gold: "#D4AF37",
+        "gold-soft": "#F0D48A",
         burgundy: "#7A3F55",
         forest: "#3D1420",
         charcoal: "#2A1015",
