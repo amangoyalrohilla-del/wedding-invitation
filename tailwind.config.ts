@@ -9,13 +9,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        ivory: "#F7F1E8",
-        cream: "#EFE4D2",
-        gold: "#C6A15B",
-        "gold-soft": "#D8BC85",
-        burgundy: "#4B0E1E",
-        forest: "#193C32",
-        charcoal: "#1A1816",
+        ivory: "#FBF3F1",
+        cream: "#EFDCDA",
+        gold: "#C98A4B",
+        "gold-soft": "#D9A468",
+        burgundy: "#7A3F55",
+        forest: "#3D1420",
+        charcoal: "#2A1015",
       },
       fontFamily: {
         display: ["var(--font-display)", "serif"],
@@ -29,7 +29,7 @@ const config: Config = {
         widest2: "0.28em",
       },
       boxShadow: {
-        soft: "0 20px 60px -20px rgba(26, 24, 22, 0.35)",
+        soft: "0 20px 60px -20px rgba(42, 16, 21, 0.35)",
       },
       keyframes: {
         drift: {
