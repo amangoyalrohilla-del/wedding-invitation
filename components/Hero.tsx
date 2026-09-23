@@ -35,7 +35,7 @@ export default function Hero() {
       >
         <Monogram className="mb-8 h-14 w-14" />
 
-        <h1 className="font-display text-6xl leading-none text-burgundy sm:text-7xl md:text-8xl">
+        <h1 className="font-display text-4xl leading-none text-burgundy sm:text-6xl md:text-8xl">
           {weddingData.couple.groomFirstName}
           <span className="mx-4 text-gold">&amp;</span>
           {weddingData.couple.brideFirstName}
